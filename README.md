@@ -31,3 +31,7 @@ is 5% chance that a Wildcard will be placed in a cell and there is 45% chance fo
 (*) is a symbol that matches any other symbol (A, B or P).
 * The won amount should be the sum of the coefficients of the symbols on the winning line(s),
 multiplied by the stake amount
+
+<br>
+
+![:trophy:](https://github.com/Azzy001/Runescape-News-Scraping/blob/master/Images/microsoft_visual_studio_cmd_view.png)
