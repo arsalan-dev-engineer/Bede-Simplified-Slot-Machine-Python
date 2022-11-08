@@ -34,11 +34,8 @@ multiplied by the stake amount
 
 <br>
 
-## Screenshots of the game:
+## Flowchart of the game
 
-![:trophy:](https://github.com/Azzy001/Bede-Simplified-Slot-Machine-Python/blob/master/Images/Bede_game_cmd_view.png)
+![:trophy:](https://github.com/Azzy001/Bede-Simplified-Slot-Machine-Python/blob/master/Bede-Machine/Bede-Gaming-Flowchart.drawio.png)
 
-## Game over, replay:
-
-![:trophy:](https://github.com/Azzy001/Bede-Simplified-Slot-Machine-Python/blob/master/Images/Bede_game_cmd_game_over_view.png)
 
