@@ -34,4 +34,11 @@ multiplied by the stake amount
 
 <br>
 
-![:trophy:](https://github.com/Azzy001/Runescape-News-Scraping/blob/master/Images/microsoft_visual_studio_cmd_view.png)
+## Screenshots of the game:
+
+![:trophy:](https://github.com/Azzy001/Bede-Simplified-Slot-Machine-Python/blob/master/Images/Bede_game_cmd_view.png)
+
+## Game over, replay:
+
+![:trophy:](https://github.com/Azzy001/Bede-Simplified-Slot-Machine-Python/blob/master/Images/Bede_game_cmd_game_over_view.png)
+
